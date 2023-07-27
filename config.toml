@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://crl-workshop.github.io/"
+baseurl = "https://AmsterdamCausalityMeeting.github.io/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
@@ -60,3 +60,5 @@ disableKinds = ["taxonomyTerm"]
 #     name = "Slides and Recording"
 #     url  = "/slides-recording"
 #     weight = 9
+
+enable_darkmode:            true   # enables switching between light/dark modes
