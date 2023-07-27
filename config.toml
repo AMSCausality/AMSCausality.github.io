@@ -7,12 +7,12 @@ disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
-  supertitle = "NeurIPS 2023 Workshop on"
-  title = "Causal Representation Learning"
-  subtitle = "December 15th or 16th"
-  author = "Sara Magliacane, Cian Eastwood, Yuki Asano, Claudia Shi, Atalanti Mastakouri, Sébastien Lachapelle, Caroline Uhler, Bernhard Schölkopf"
-  description = "NeurIPS 2023 Workshop on Causal Representation Learning"
-  keywords = ["workshop", "causal representation learning"]
+  supertitle = "Amsterdam Causality Meeting"
+  title = "Causality meeting 2023"
+  subtitle = "Fall 2023"
+  author = "Sara Magliacane, Joris Mooij, Stéphanie van der Pas"
+  description = "Causality meeting 2023 with VU, UvA, Amsterdam UMC and CWI"
+  keywords = ["seminar", "workshop", "meeting", "causality"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
@@ -20,10 +20,10 @@ disableKinds = ["taxonomyTerm"]
   xHTML = true
 
 # Main menu
-[[menu.main]]
-    name = "Call for Papers"
-    url  = "/call-for-papers"
-    weight = 1
+# [[menu.main]]
+#     name = "Call for Papers"
+#     url  = "/call-for-papers"
+#     weight = 1
 [[menu.main]]
     name = "About"
     url  = "/about"

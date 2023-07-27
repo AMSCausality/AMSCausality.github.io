@@ -1,2 +1,2 @@
-# crl-workshop.github.io/
-Website for the Workshop on Causal Representation Learning at NeurIPS 2023
+# AmsterdamCausalityMeeting.github.io/
+Website for the Meeting on Causality between VU, UvA, Amsterdam UMC and CWI
