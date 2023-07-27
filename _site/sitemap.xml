@@ -6,9 +6,9 @@
 <url>
 <loc>http://localhost:4000/content/accepted-papers.html</loc>
 </url>
-<!-- <url>
+<url>
 <loc>http://localhost:4000/content/call-for-papers.html</loc>
-</url> -->
+</url>
 <url>
 <loc>http://localhost:4000/content/dates.html</loc>
 </url>
