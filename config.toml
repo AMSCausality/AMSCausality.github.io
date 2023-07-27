@@ -60,5 +60,3 @@ disableKinds = ["taxonomyTerm"]
 #     name = "Slides and Recording"
 #     url  = "/slides-recording"
 #     weight = 9
-
-enable_darkmode:            true   # enables switching between light/dark modes
