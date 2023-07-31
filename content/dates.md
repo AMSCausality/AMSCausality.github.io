@@ -4,6 +4,8 @@ title: "Important Dates"
 
 # Important Dates
 
-* **Fall 2023 Semester: October 9, 2023, 00:30 AoE and November 23, 2023, 00:30 AoE**
-* **Spring 2024 Semester: workshop dates to be determined later**
+* **Paper submission deadline: September 29, 2023, 23:59 AoE**
+* **Notification to authors:** October 27, 2023, 23:59 AoE
+* **Camera-ready version and videos:** December 1, 2022, 23:59 AoE
+* **Workshop Date:** December 15th or 16th, 2022
 
