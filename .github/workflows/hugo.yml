@@ -26,6 +26,11 @@ defaults:
   run:
     shell: bash
 
+# -----------------------------------------------------------------------------
+# Optional Features
+# -----------------------------------------------------------------------------
+  enable_darkmode: true   # enables switching between light/dark modes
+
 jobs:
   # Build job
   build:
