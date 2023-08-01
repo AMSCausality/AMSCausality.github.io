@@ -7,8 +7,8 @@ disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
-  supertitle = "Amsterdam Causality Meeting"
-  title = "Causality meeting 2023"
+  supertitle = "Amsterdam Causality"
+  title = "Meeting"
   subtitle = "Fall 2023"
   author = "Sara Magliacane, Joris Mooij, Stéphanie van der Pas"
   description = "Causality meeting 2023 with VU, UvA, Amsterdam UMC and CWI"
