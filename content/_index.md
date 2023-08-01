@@ -10,8 +10,8 @@ If you are looking for information on the causality reading group held between 2
 
 # Upcoming seminars
 
-**October 9 2023**,     *14.30-17.30*:    Schedule and location will be announced at a later date.
-**November 23 2023**,   *14.30-17.30*:    Schedule and location will be announced at a later date.
+* **October 9 2023**,     *14.30-17.30*:    Schedule and location will be announced at a later date.
+* **November 23 2023**,   *14.30-17.30*:    Schedule and location will be announced at a later date.
 
 
 Contact us at <crl.neurips2023@gmail.com>
