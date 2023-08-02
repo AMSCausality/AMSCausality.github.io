@@ -12,7 +12,7 @@ The workshop will not have proceedings (or in other words, it will not be archiv
 
 https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/CRL
 
-[![Image description](/AmsterdamCausalityMeeting/images/Untitled.jpg)](/AmsterdamCausalityMeeting/pdfs/Untitled.pdf)
+[![Image description](images/Untitled.jpg)](pdfs/Untitled.pdf)
 
 <!-- ## Camera-Ready Revisions 
 
