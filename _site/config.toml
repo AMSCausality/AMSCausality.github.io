@@ -32,10 +32,10 @@ disableKinds = ["taxonomyTerm"]
     name = "Dates"
     url  = "/dates"
     weight = 3
-#[[menu.main]]
-#    name = "Formatting Instructions"
-#    url  = "/formatting-instructions"
-#    weight = 4
+[[menu.main]]
+    name = "Formatting Instructions"
+    url  = "/formatting-instructions"
+    weight = 4
 #[[menu.main]]
 #    name = "Organisers and Reviewers"
 #    url  = "/organisers-reviewers"
