@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-In Fall 2023, a new causality seminar will start, co-organized by <a href="https://saramagliacane.github.io">Sara Magliacane</a>, <a href="https://staff.fnwi.uva.nl/j.m.mooij">Joris Mooij</a> and <a href="https://www.stephanievanderpas.nl">Stéphanie van der Pas</a>. The aim of the seminar is to bring together researchers in causal inference from the VU, UvA, Amsterdam UMC and CWI, but the seminar is open to everyone. Each meeting will feature two scientific talks followed by drinks.
+In Fall 2023, a new causality seminar will start, co-organized by. The aim of the seminar is to bring together researchers in causal inference from the VU, UvA, Amsterdam UMC and CWI, but the seminar is open to everyone. Each meeting will feature two scientific talks followed by drinks.
 
 <img src="ACM_logo.png" alt="ACM Illustration" width="620px"/>
 
