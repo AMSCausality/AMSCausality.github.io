@@ -2,7 +2,7 @@
 title: "Test"
 ---
 
-# Formatting Instructions
+# Test
 
 As for all NeurIPS workshops, submissions should contain **original and previously unpublished research** and they should be formatted using the [NeurIPS latex style](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles). Papers should be submitted as a PDF file and should be **maximum 6 pages** in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account. 
 
