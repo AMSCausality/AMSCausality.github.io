@@ -1,5 +1,5 @@
 ---
-title: "Formatting Instructions"
+title: "Test"
 ---
 
 # Formatting Instructions
