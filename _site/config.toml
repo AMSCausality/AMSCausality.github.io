@@ -34,7 +34,7 @@ disableKinds = ["taxonomyTerm"]
     weight = 3
 [[menu.main]]
     name = "Formatting Instructions"
-    url  = "/formatting-instructions"
+    url  = "/test"
     weight = 4
 #[[menu.main]]
 #    name = "Organisers and Reviewers"
