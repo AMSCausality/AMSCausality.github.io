@@ -12,4 +12,4 @@ In Fall 2023, a new causality seminar will start, co-organized by Sara Magliacan
 * **November 23 2023**,   *14.30-17.30*:    Schedule and location will be announced at a later date.
 
 
-Contact us at <crl.neurips2023@gmail.com>
+Sign up for announcements on <a href="https://groups.google.com/g/amsterdamcausalitymeeting/about">the ACM group</a> at <https://groups.google.com/g/amsterdamcausalitymeeting/about>
