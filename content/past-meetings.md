@@ -4,11 +4,9 @@ title: "Past Meetings"
 
 # Past Meetings
 
-As for all NeurIPS workshops, submissions should contain **original and previously unpublished research** and they should be formatted using the [NeurIPS latex style](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles). Papers should be submitted as a PDF file and should be **maximum 6 pages** in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account. 
+Blabla about past meetings.
 
-The workshop will not have proceedings (or in other words, it will not be archival), which means you can submit the same or extended work as a publication to other venues after the workshop. This means we also accept submissions to other venues, as long as they are not published before the workshop date in December.
-
-## Submission Site
+## Slides
 
 https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/CRL
 
