@@ -8,9 +8,9 @@ Blabla about past meetings.
 
 ## Slides
 
-https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/CRL
+[![Image description](pdfs/untitled.jpg)](pdfs/slides.pdf)
 
-<!-- [![Image description](images/Untitled.jpg)](pdfs/Untitled.pdf) -->
+https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/CRL
 
 <!-- ## Camera-Ready Revisions 
 
