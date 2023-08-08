@@ -8,6 +8,8 @@ Blabla about past meetings.
 
 ## Slides
 
+* [Aapo Hyvärinen, "Causal Discovery and Latent-Variable Models"](https://github.com/AmsterdamCausalityMeeting/AmsterdamCausalityMeeting.github.io/raw/main/pdfs/slides.pdf)
+
 [![Image description](pdfs/untitled.jpg)](pdfs/slides.pdf)
 
 https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/CRL
