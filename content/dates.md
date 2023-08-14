@@ -9,5 +9,4 @@ title: "Important Dates"
 	* *November 23, 2023* from 14.30 to 17.30 at NU-5A47 [on the VU Campus](https://vu.nl/en/about-vu/more-about/new-university-building).
 
 
-
 * **Spring 2024**: workshops dates to be determined later.
