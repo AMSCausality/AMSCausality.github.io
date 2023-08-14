@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-# About the workshop
+# About October 9th meeting
 
 Talks by [Sander Beckers](https://sanderbeckers.github.io/website/about/) and [Nan van Geloven](https://scholar.google.nl/citations?user=pEnrhb4AAAAJ&hl=nl) followed by drinks.
 
