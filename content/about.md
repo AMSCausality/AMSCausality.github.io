@@ -6,6 +6,8 @@ title: "About"
 
 Talks by [Sander Beckers](https://sanderbeckers.github.io/website/about/) and [Nan van Geloven](https://scholar.google.nl/citations?user=pEnrhb4AAAAJ&hl=nl) followed by drinks.
 
+More details about the program to come.
+
 
 <!-- Machine learning (ML) has established itself as the dominant and most successful paradigm for artificial intelligence (AI). A key strength of ML over earlier (symbolic, logic and rule-based) approaches to AI, is its ability to infer useful features or *representations* of often very high-dimensional observations in an automated, data-driven way. However, in doing so, it generally only leverages *statistical* information (e.g., correlations present in a training set) and consequently struggles at tasks such as knowledge transfer, systematic generalization, or planning, which are thought to require higher-order cognition.
 
