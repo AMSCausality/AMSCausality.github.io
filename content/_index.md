@@ -8,8 +8,11 @@ In Fall 2023, a new causality seminar will start, co-organized by [Sara Magliaca
 
 # Upcoming seminars
 
-* **October 9 2023**,     *15.00-18.00*:    UvA Science Park more details [a relative link](dates).
-* **November 23 2023**,   *14.30-17.30*:    Schedule and location will be announced at a later date.
+* **October 9 2023**, *15.00-18.00* at UvA Science Park.
+* **November 23 2023**, *14.30-17.30* at VU.
+
+*Get more details on [the content](about) or [schedule and location](dates).*
+
 
 
 Sign up for announcements on <a href="https://groups.google.com/g/amsterdamcausalitymeeting/about">the ACM group</a>
