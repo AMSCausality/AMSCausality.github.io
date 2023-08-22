@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://AmsterdamCausalityMeeting.github.io/"
+baseurl = "https://AMSCausality.github.io/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
