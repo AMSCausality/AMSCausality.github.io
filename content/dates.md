@@ -1,5 +1,5 @@
 ---
-title: "Important Dates"
+title: "Upcoming Meetings"
 ---
 
 # Important Dates
