@@ -42,7 +42,7 @@ disableKinds = ["taxonomyTerm"]
     weight = 5
 [[menu.main]]
     name = "Sponsors"
-    url  = "/sponsorr"
+    url  = "/sponsors"
     weight = 6
 #[[menu.main]]
 #    name = "Past Workshops"
