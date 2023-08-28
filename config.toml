@@ -12,7 +12,7 @@ disableKinds = ["taxonomyTerm"]
   subtitle = "Fall 2023"
   author = "Sara Magliacane, Joris Mooij, Stéphanie van der Pas"
   description = "Causality meeting 2023 with VU, UvA, Amsterdam UMC and CWI"
-  keywords = ["seminar", "workshop", "meeting", "causality"]
+  keywords = ["seminar", "workshop", "meeting", "causality", "causal"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
@@ -38,7 +38,7 @@ disableKinds = ["taxonomyTerm"]
     weight = 4
 [[menu.main]]
     name = "Organisers"
-    url  = "/organisers-reviewers"
+    url  = "/organisers"
     weight = 5
 [[menu.main]]
     name = "Sponsors"
