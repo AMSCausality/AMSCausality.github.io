@@ -14,4 +14,4 @@ In Fall 2023, a new causality seminar will start, co-organized by [Sara Magliaca
 *Get more details on [schedule and location](dates).*
 
 
-Sign up for announcements in our [Google Group Amsterdam Causality] (https://groups.google.com/g/amscausality/about).
+Sign up for announcements in our [Google Group Amsterdam Causality](https://groups.google.com/g/amscausality/about).
