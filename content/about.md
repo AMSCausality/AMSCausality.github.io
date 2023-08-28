@@ -8,8 +8,7 @@ The aim of the seminar is to bring together researchers in causal inference from
 
 We plan to organize 4 events per year, where each event consist of two scientific talks and a networking events with some drinks afterwards.
 
-
-<img src="ACM_logo.png" alt="ACM Illustration" width="620px"/>
+<img src="/ACM_logo.png" alt="ACM Illustration" width="620px"/>
 
 # Upcoming seminars
 
