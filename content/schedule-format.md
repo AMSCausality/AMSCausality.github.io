@@ -1,19 +1,17 @@
 ---
-title: "Schedule and Format"
+title: "Schedule"
 ---
 
 
-# Workshop Schedule
+# Schedule
 
-TBD
-
-## Format
-
-The workshop will be **in-person** at NeurIPS 2023 and, as such, registration for NeurIPS (workshops) is required to attend. 
-
-Videos of the talks and spotlight papers will be collected and posted to the website in advance of the workshop.
+## Fall 2023 meetings
+* *October 9, 2023* from 15.00 to 18.00 at location [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114.
+Talks by [Sander Beckers](https://sanderbeckers.github.io/website/about/) and [Nan van Geloven](https://scholar.google.nl/citations?user=pEnrhb4AAAAJ&hl=nl).
 
 
-<!-- ## Poster Session
+* *November 23, 2023* from 14.30 to 17.30 at NU-5A47 [on the VU Campus](https://vu.nl/en/about-vu/more-about/new-university-building).
 
-All accepted papers will be presented as a poster at the workshop. All posters should be put up in the morning (e.g., during the first break) and will remain up during the whole day (i.e., all posters are presented during both poster sessions). -->
+
+## Spring 2024
+Workshops dates to be determined later.
