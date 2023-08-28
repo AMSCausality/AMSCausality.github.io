@@ -40,10 +40,10 @@ disableKinds = ["taxonomyTerm"]
     name = "Organisers"
     url  = "/organisers-reviewers"
     weight = 5
-#[[menu.main]]
-#    name = "Accepted Papers"
-#    url  = "/accepted-papers"
-#    weight = 6
+[[menu.main]]
+    name = "Sponsors"
+    url  = "/sponsorr"
+    weight = 6
 #[[menu.main]]
 #    name = "Past Workshops"
 #    url  = "/past-workshops"
