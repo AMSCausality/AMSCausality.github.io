@@ -29,17 +29,17 @@ disableKinds = ["taxonomyTerm"]
     url  = "/about"
     weight = 2
 [[menu.main]]
-    name = "Dates"
-    url  = "/dates"
+    name = "Schedule"
+    url  = "/schedule-format"
     weight = 3
-[[menu.main]]
-    name = "Past Meetings"
-    url  = "/past-meetings"
-    weight = 4
 #[[menu.main]]
-#    name = "Organisers and Reviewers"
-#    url  = "/organisers-reviewers"
-#    weight = 5
+#    name = "Past Meetings"
+#    url  = "/past-meetings"
+#    weight = 4
+[[menu.main]]
+    name = "Organisers"
+    url  = "/organisers-reviewers"
+    weight = 4
 #[[menu.main]]
 #    name = "Accepted Papers"
 #    url  = "/accepted-papers"
