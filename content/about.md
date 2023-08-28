@@ -17,11 +17,9 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 *Get more details on [schedule and location](dates).*
 
-# Contact
+# Contact and Sponsors
 
 Sign up for announcements in our [Google Group Amsterdam Causality](https://groups.google.com/g/amscausality/about).
-
-# Sponsors
 
 This event is financially supported by the [ELLIS unit Amsterdam](https://ellis.eu/units/amsterdam) and the [Big Statistics group](https://www.bigstatistics.nl/). 
 
