@@ -14,4 +14,4 @@ Talks by [Sander Beckers](https://sanderbeckers.github.io/website/about/) and [N
 
 
 ## Spring 2024
-Workshops dates to be determined later.
+Meetings dates to be determined later.
