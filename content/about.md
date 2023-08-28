@@ -2,8 +2,9 @@
 title: "Home"
 ---
 
-[We](/organizers) are starting a new Causality seminar in Amsterdam, that would bring together researchers working in causality across Amsterdam institutions (VU, UvA, Amsterdam UMC and CWI) and across multiple fields and disciplines. 
+In Fall 2023, a new causality seminar will start, co-organized by [Sara Magliacane](https://saramagliacane.github.io/), [Joris Mooij](https://staff.fnwi.uva.nl/j.m.mooij/) and [Stéphanie van der Pas](https://www.stephanievanderpas.nl/). 
 
+The aim of the seminar is to bring together researchers in causal inference from the VU, UvA, Amsterdam UMC and CWI, but the seminar is open to everyone. 
 We plan to organize 4 events per year, where each event consist of two scientific talks and a networking events with some drinks afterwards.
 
 
