@@ -38,7 +38,7 @@ disableKinds = ["taxonomyTerm"]
     weight = 4
 [[menu.main]]
     name = "Organisers"
-    url  = "/organisers"
+    url  = "/organisers-reviewers"
     weight = 5
 [[menu.main]]
     name = "Sponsors"
