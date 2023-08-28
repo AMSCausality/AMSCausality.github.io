@@ -30,7 +30,7 @@ disableKinds = ["taxonomyTerm"]
     weight = 2
 [[menu.main]]
     name = "Upcoming Meetings"
-    url  = "/dates"
+    url  = "/upcoming"
     weight = 3
 [[menu.main]]
     name = "Past Meetings"
