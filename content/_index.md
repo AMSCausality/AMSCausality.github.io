@@ -14,7 +14,7 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 # News
 
-* *October 9 2023*, talks by [Sander Beckers](https://sanderbeckers.github.io/website/about/) and [Nan van Geloven](https://scholar.google.nl/citations?user=pEnrhb4AAAAJ&hl=nl) at location [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114 from 15.00 to 18.00.
+* Meeting with [Sander Beckers](https://sanderbeckers.github.io/website/about/) and [Nan van Geloven](https://scholar.google.nl/citations?user=pEnrhb4AAAAJ&hl=nl) on *October 9 2023*, at location [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114 *from 15.00 to 18.00*.
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
