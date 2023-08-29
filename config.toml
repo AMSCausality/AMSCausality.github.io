@@ -24,10 +24,10 @@ disableKinds = ["taxonomyTerm"]
 #     name = "Call for Papers"
 #     url  = "/call-for-papers"
 #     weight = 1
-[[menu.main]]
-    name = "About"
-    url  = "/about"
-    weight = 2
+#[[menu.main]]
+#    name = "About"
+#    url  = "/about"
+#    weight = 2
 [[menu.main]]
     name = "Upcoming Meetings"
     url  = "/upcoming"

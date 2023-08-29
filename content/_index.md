@@ -10,12 +10,14 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 <img src="ACM_logo.png" alt="ACM Illustration" width="620px"/>
 
-# Upcoming seminars
+# News
 
-* *October 9 2023*, 15.00-18.00 at UvA Science Park.
-* *November 23 2023*, 14.30-17.30 at VU.
+* *October 9 2023*, talks by [Sander Beckers](https://sanderbeckers.github.io/website/about/) and [Nan van Geloven](https://scholar.google.nl/citations?user=pEnrhb4AAAAJ&hl=nl) at location [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114 for 15.00 to 18.00.
 
-*Get more details on [schedule and location](dates).*
+*Get more details on [schedule and location](upcoming).*
 
+# Contact and Sponsors
 
 Sign up for announcements in our [Google Group Amsterdam Causality](https://groups.google.com/g/amscausality/about).
+
+This event is financially supported by the [ELLIS unit Amsterdam](https://ellis.eu/units/amsterdam) and the [Big Statistics group](https://www.bigstatistics.nl/). 
