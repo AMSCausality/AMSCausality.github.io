@@ -2,7 +2,7 @@
 title: "Upcoming Meetings"
 ---
 
-# Important Dates
+# Upcoming Meetings
 
 
 ## Fall 2023 meetings
