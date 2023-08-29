@@ -6,7 +6,8 @@ title: "Upcoming Meetings"
 
 
 ## Fall 2023 meetings
-* *October 9, 2023* from 15.00 to 18.00 at location [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114.
+* *October 9, 2023* from 15.00 to 18.00 at location [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114 (first floor of D Building in the Faculty of Science complex).
+
 Talks by [Sander Beckers](https://sanderbeckers.github.io/website/about/) and [Nan van Geloven](https://scholar.google.nl/citations?user=pEnrhb4AAAAJ&hl=nl).
 
 
