@@ -6,7 +6,7 @@ In Fall 2023, a new causality seminar will start, co-organized by [Sara Magliaca
 
 The aim of the seminar is to bring together researchers in causal inference from the VU, UvA, Amsterdam UMC and CWI, but the seminar is open to everyone. 
 
-We plan to organize 4 events per year, where each event consist of two scientific talks and a networking events with some drinks afterwards.
+We plan to organize 4 events per year, where each event consists of two scientific talks and a networking event with drinks afterwards.
 
 <img src="ACM_logo.png" alt="ACM Illustration" width="620px"/>
 
