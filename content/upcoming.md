@@ -2,16 +2,16 @@
 title: "Upcoming Meetings"
 ---
 
-## Upcoming Meeting on Oct 9 2023
+# Upcoming Meeting on Oct 9 2023
 
 * *October 9, 2023* at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114 (first floor of D building in the Faculty of Science complex).
 
-<div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
+<div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
 
 <table class="schedule">
     <tr>
-        <th style="width:25%">Time</th>
+        <th style="width:10%">Time</th>
         <th>Program</th>
     </tr>
     <tr class="talk">
