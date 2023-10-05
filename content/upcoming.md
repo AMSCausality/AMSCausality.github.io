@@ -49,7 +49,6 @@ title: "Upcoming Meetings"
         <td>14:30-15:30</td>
         <td> <a href="https://johannes-textor.name/"> Johannes Textor (RU, RUMC) </a> - Are DAGs Really Useful for Causal Reasoning in Complex Systems? <br><br>
         Much causal inference methodology is based on the assumption that the world can be neatly and meaningfully described by DAGs or similar formalisms. I will explore the use of simulation to investigate when and how this assumption breaks down when facing complex systems with emergent properties. Specifically, I will discuss a simple biophysical simulation model of a cell for which we have both complete knowledge of the computation graph and a good understanding of its emergent properties and phenomenology. Using this system as an example, I will illustrate the conceptual and ontological problems that arise when attempting to formulate causal processes in terms of graphical models whose nodes represent high-level descriptions of emergent phenomena. I argue that these problems are similar to those resulting from the use of social categories as nodes in DAGs, and that they cannot be easily addressed by existing extensions of the DAG framework.
-
         </td>
     </tr>
       <tr class="talk">
