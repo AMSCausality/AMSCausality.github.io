@@ -2,7 +2,7 @@
 title: "Upcoming Meetings"
 ---
 
-# Upcoming Meeting on Oct 9 2023
+# Upcoming Meeting on Oct 9, 2023
 
 * *October 9, 2023* at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114 (first floor of D building in the Faculty of Science complex).
 
@@ -33,7 +33,7 @@ title: "Upcoming Meetings"
 </table>
 
 
-## Fall 2023 meetings
+## Next meeting: November 23, 2023 
 
 * *November 23, 2023* from 14.30 to 17.30 at NU-5A47 [on the VU Campus](https://vu.nl/en/about-vu/more-about/new-university-building).
 
