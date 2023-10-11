@@ -4,7 +4,7 @@ title: "Past Meetings"
 
 # Past Meetings
 
-* *October 9, 2023* at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114 (first floor of D building in the Faculty of Science complex).
+* *October 9, 2023* at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114.
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
@@ -22,7 +22,7 @@ title: "Past Meetings"
     </tr>
       <tr class="talk">
         <td>16:00-17:00</td>
-        <td> <a href=https://sanderbeckers.github.io/website/about/> Sander Beckers (UvA) </a> - Moral responsibility for AI systems (<a href="/pdfs/first-meeting-beckers-responsability.pdf.pdf">slides</a>) <br> <br>
+        <td> <a href=https://sanderbeckers.github.io/website/about/> Sander Beckers (UvA) </a> - Moral responsibility for AI systems (<a href="/pdfs/first-meeting-beckers-responsability.pdf">slides</a>) <br> <br>
         As more and more decisions that have a significant ethical dimension are being outsourced to AI systems, it is important to have a definition of moral responsibility that can be applied to AI systems. Moral responsibility for an outcome of an agent who performs some action is commonly taken to involve both a causal condition and an epistemic condition: the action should cause the outcome, and the agent should have been aware – in some form or other – of the possible moral consequences of their action. This paper presents a formal definition of both conditions within the framework of causal models. I compare my approach to the existing approaches of Braham and van Hees (BvH) and of Halpern and Kleiman-Weiner (HK). I then generalize our definition into a degree of responsibility.
         </td>
     </tr>
