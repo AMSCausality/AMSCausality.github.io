@@ -16,8 +16,7 @@ title: "Upcoming Meetings"
     </tr>
     <tr class="talk">
         <td>14:30-15:30</td>
-        <td> <a href="https://www.cs.ru.nl/~tomc/"> Tom Claassen (Radboud University Nijmegen) </a> - title <br><br>
-        abstract
+        <td> <a href="https://www.cs.ru.nl/~tomc/"> Tom Claassen (Radboud University Nijmegen) </a>
         </td>
     </tr>
       <tr class="talk">
