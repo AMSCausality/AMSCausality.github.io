@@ -10,7 +10,9 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 # News
 
-* Meeting with [Johannes Textor](https://johannes-textor.name/) and [Julia Kowalska](https://www.amsterdamumc.org/en/research/researchers/julia-kowalska.htm) on *November 23 2023*, 14.30-17.30 at VU.
+* Meeting with [Tom Claassen](https://www.cs.ru.nl/~tomc/) and [2nd speaker TBC] on *February 29 2024*, 14.30-18.00 at UvA Science Park.
+
+* Meeting on *April 22 2024*, 14.30-17.30 at VU.
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
