@@ -10,7 +10,7 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 # News
 
-* Meeting with [Tom Claassen](https://www.cs.ru.nl/~tomc/) and [2nd speaker TBC] on *February 29 2024*, 14.30-18.00 at UvA Science Park.
+* Meeting with [Mirthe van Diepen](https://www.cs.ru.nl/staff/Mirthe.van.Diepen/) (Radboud University) and [Philip Boeken](https://www.uva.nl/en/profile/b/o/p.a.boeken/p.a.boeken.html) (UvA) on *February 29 2024*, 14.30-18.00 at UvA Science Park.
 
 * Meeting on *April 22 2024*, 14.30-17.30 at VU.
 
