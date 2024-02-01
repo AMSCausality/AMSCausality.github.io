@@ -16,12 +16,16 @@ title: "Upcoming Meetings"
     </tr>
     <tr class="talk">
         <td>14:30-15:30</td>
-        <td> <a href="https://www.cs.ru.nl/staff/Mirthe.van.Diepen/"> Mirthe van Diepen (Radboud University) </a> (<a href="/diepen.pdf">abstract</a>)
+        <td> <a href="https://www.cs.ru.nl/staff/Mirthe.van.Diepen/"> Mirthe van Diepen (Radboud University) </a> 
+        <br>
+        <a href="/diepen.pdf">Detecting New Risk Factors via Causal Discovery in Aortic Surgery</a>
         </td>
     </tr>
       <tr class="talk">
         <td>15:30-16:30</td>
-        <td> <a href="https://www.uva.nl/en/profile/b/o/p.a.boeken/p.a.boeken.html"> Philip Boeken (UvA) </a> (<a href="/boeken.pdf">abstract</a>)
+        <td> <a href="https://www.uva.nl/en/profile/b/o/p.a.boeken/p.a.boeken.html"> Philip Boeken (UvA) </a> 
+        <br>
+        <a href="/boeken.pdf">A Markov property for sample paths of stochastic processes</a>
         </td>
 </td>
     </tr>
