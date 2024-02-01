@@ -11,7 +11,7 @@ title: "Upcoming Meetings"
 
 <table class="schedule">
     <tr>
-        <th style="width:10%">Time</th>
+        <th style="width:20%">Time</th>
         <th>Program</th>
     </tr>
     <tr class="talk">
