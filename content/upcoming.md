@@ -4,7 +4,7 @@ title: "Upcoming Meetings"
 
 # Upcoming Meeting on spring 2024 
 
-* *February 29, 2024* from 14.30 to 18.00 at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) [room TBA].
+* *February 29, 2024* from 14.30 to 18.00 at [UvA Science Park 900](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room L3.36 at the Lab42 building.
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
