@@ -37,4 +37,4 @@ title: "Upcoming Meetings"
     </tr>
 </table>
 
-* *April 22, 2024* from 14.30 to 17.30 at [New University building at VU campus](https://vu.nl/en/about-vu/more-about/new-university-building) room NU-3A57.
+* *April 22, 2024* from 14.30 to 17.30 at VU in the [New University building](https://vu.nl/en/about-vu/more-about/new-university-building) room NU-3A57.
