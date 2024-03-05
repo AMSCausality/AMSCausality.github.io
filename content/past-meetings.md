@@ -73,7 +73,7 @@ title: "Past Meetings"
     </tr>
       <tr class="talk">
         <td>15:30-16:30</td>
-        <td> <a href=https://www.uva.nl/en/profile/b/o/p.a.boeken/p.a.boeken.html> Philip Boeken </a> (UvA) - A Markov property for sample paths of stochastic processes (<a href="/boeken.pdf">abstract</a>)
+        <td> <a href=https://www.uva.nl/en/profile/b/o/p.a.boeken/p.a.boeken.html> Philip Boeken </a> (UvA) - A Markov property for sample paths of stochastic processes (<a href="/boeken.pdf">abstract</a> and <a href="/feb29-2024-boeken-markov.pdf">slides</a>)
         </td>
     </tr>
     <tr class="drinks">
