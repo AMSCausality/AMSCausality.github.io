@@ -55,3 +55,29 @@ title: "Past Meetings"
         <td>Drinks</td>
     </tr>
 </table>
+
+* *February 29, 2024* at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) Lab42-L3.36.
+
+<div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
+</div>
+
+<table class="schedule">
+    <tr>
+        <th style="width:20%">Time</th>
+        <th>Program</th>
+    </tr>
+    <tr class="talk">
+        <td>14:30-15:30</td>
+        <td><a href=https://www.cs.ru.nl/staff/Mirthe.van.Diepen/> Mirthe van Diepen</a> (Radboud University) - Detecting New Risk Factors via Causal Discovery in Aortic Surgery (<a href="/diepen.pdf">abstract</a>)
+        </td>
+    </tr>
+      <tr class="talk">
+        <td>15:30-16:30</td>
+        <td> <a href=https://www.uva.nl/en/profile/b/o/p.a.boeken/p.a.boeken.html> Philip Boeken </a> (UvA) - A Markov property for sample paths of stochastic processes (<a href="/boeken.pdf">abstract</a>)
+        </td>
+    </tr>
+    <tr class="drinks">
+        <td>16:30-18:00</td>
+        <td>Drinks</td>
+    </tr>
+</table>
