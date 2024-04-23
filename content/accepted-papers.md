@@ -1,5 +1,0 @@
----
-title: "Accepted Papers"
----
-
-TBD
