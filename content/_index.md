@@ -10,7 +10,7 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 # News
 
-* Meeting on *April 22 2024*, 14.30 - 17.30 at VU with [Hessel Peters-Sengers](https://www.amsterdamumc.org/en/research/researchers/hessel-peters-sengers.htm) (AUMC) and [Richard Post](https://research.tue.nl/nl/persons/richard-aj-post) (TU/e).
+* Meeting on *Dec 4th, 2024* from 14.30 to 17.30 at UvA Science Park Lab42-L3.36 with <a href="https://pages.di.unipi.it/massidda/"> Riccardo Massidda </a> (University of Pisa) and <a href="https://phlippe.github.io/"> Phillip Lippe </a> (UvA).
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
