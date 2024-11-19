@@ -17,7 +17,6 @@ title: "Upcoming Meetings"
     <tr class="talk">
         <td>14:30-15:30</td>
         <td> <a href="https://pages.di.unipi.it/massidda/"> Riccardo Massidda </a> (University of Pisa) - Frameworks for Representing and Learning Abstract Causal Models
- (<a href="">slides</a>)
         <br>
         <br>
         By extending graphical probabilistic models, causal models are fundamental tools for decision-making and what-if reasoning in the presence of uncertainty. Despite growing research on the problem of recovering causal graphs from data, their application to datasets with plenty of variables is still a pressing issue. Causal Abstraction is a recently defined framework that enables concise representations of large systems through smaller causal models. In this talk, Riccardo will overview the state-of-the-art definitions of Causal Abstraction and discuss their most important aspects and differences. Intuitively, we will see how abstract models can retain causal properties of the system by aggregating the higher-dimensional representation. Then, the talk will focus on the problem of learning abstract causal models by presenting existing approaches and discussing their common assumptions and limitations.
