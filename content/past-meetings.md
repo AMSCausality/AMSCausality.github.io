@@ -13,12 +13,12 @@ title: "Past Meetings"
     </tr>
     <tr class="talk">
         <td>14:30-15:30</td>
-        <td> <a href="https://pages.di.unipi.it/massidda/"> Riccardo Massidda </a> (University of Pisa) - Frameworks for Representing and Learning Abstract Causal Models (<a href="/Massida_abstract.pdf">abstract</a> and <a href="/dec4-2024-massidda-abstraction.pdf">slides</a>)
+        <td> <a href="https://pages.di.unipi.it/massidda/"> Riccardo Massidda </a> (University of Pisa) - Frameworks for Representing and Learning Abstract Causal Models (<a href="/MassidaAbstract.pdf">abstract</a> and <a href="/dec4-2024-massidda-abstraction.pdf">slides</a>)
         </td>
     </tr>
       <tr class="talk">
         <td>15:30-16:30</td>
-        <td> <a href="https://phlippe.github.io/"> Phillip Lippe </a> (UvA) - Causal Representation Learning across Multiple Environments (<a href="/Lippe_abstract.pdf">abstract</a> and <a href="/dec4-2024-lippe-crl.pdf">slides</a>)
+        <td> <a href="https://phlippe.github.io/"> Phillip Lippe </a> (UvA) - Causal Representation Learning across Multiple Environments (<a href="/LippeAbstract.pdf">abstract</a> and <a href="/dec4-2024-lippe-crl.pdf">slides</a>)
         </td>
 </td>
     </tr>
@@ -37,12 +37,12 @@ title: "Past Meetings"
     </tr>
     <tr class="talk">
         <td>14:30-15:30</td>
-        <td> <a href="https://www.amsterdamumc.org/en/research/researchers/hessel-peters-sengers.htm"> Hessel Peters-Sengers </a> (AUMC) - ICU-acquired complications (<a href="/Hessel_abstract.pdf">abstract</a> and <a href="/apr22-2024-peters-sengers-icu.pdf">slides</a>)
+        <td> <a href="https://www.amsterdamumc.org/en/research/researchers/hessel-peters-sengers.htm"> Hessel Peters-Sengers </a> (AUMC) - ICU-acquired complications (<a href="/HPSAbstract.pdf">abstract</a> and <a href="/apr22-2024-peters-sengers-icu.pdf">slides</a>)
         </td>
     </tr>
       <tr class="talk">
         <td>15:30-16:30</td>
-        <td> <a href="https://research.tue.nl/nl/persons/richard-aj-post"> Richard Post </a> (TU/e) - Flexible Machine Learning Estimation of Conditional Average Treatment Effects (<a href="/apr22-2024-post-flexible.pdf">slides</a>)
+        <td> <a href="https://research.tue.nl/nl/persons/richard-aj-post"> Richard Post </a> (TU/e) - Flexible Machine Learning Estimation of Conditional Average Treatment Effects (<a href="/PostAbstract.pdf">abstract</a> and <a href="/apr22-2024-post-flexible.pdf">slides</a>)
         <br>
         <br>
         
