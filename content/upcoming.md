@@ -27,6 +27,7 @@ title: "Upcoming Meetings"
         <br>
         Finally, time permitting, we will describe a frequentist approach to inference for the IV model via a new approach to constructing confidence regions for multinomial data with (non-asymptotic) coverage guarantees via a Chernoff-type tail bound.
         <br>
+        <br>
         Joint work with Robin J. Evans (Oxford), F. Richard Guo (University of Michigan), James M. Robins (Harvard), Yilin Song (University of Washington) and Gary Chan (University of Washington).
         </td>
     </tr>

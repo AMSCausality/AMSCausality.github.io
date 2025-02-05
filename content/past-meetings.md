@@ -43,9 +43,6 @@ title: "Past Meetings"
       <tr class="talk">
         <td>15:30-16:30</td>
         <td> <a href="https://research.tue.nl/nl/persons/richard-aj-post"> Richard Post </a> (TU/e) - Flexible Machine Learning Estimation of Conditional Average Treatment Effects (<a href="/PostAbstract.pdf">abstract</a> and <a href="/apr22-2024-post-flexible.pdf">slides</a>)
-        <br>
-        <br>
-        
         </td>
 </td>
     </tr>
