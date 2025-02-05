@@ -4,6 +4,36 @@ title: "Past Meetings"
 
 # Past Meetings
 
+* *December 4, 2024* from 14.30 to 17.30 at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) in the Lab42 room L3.36.
+
+<table class="schedule">
+    <tr>
+        <th style="width:20%">Time</th>
+        <th>Program</th>
+    </tr>
+    <tr class="talk">
+        <td>14:30-15:30</td>
+        <td> <a href="https://pages.di.unipi.it/massidda/"> Riccardo Massidda </a> (University of Pisa) - Frameworks for Representing and Learning Abstract Causal Models (<a href="/dec4-2024-massidda-abstraction.pdf">slides</a>)
+        <br>
+        <br>
+        By extending graphical probabilistic models, causal models are fundamental tools for decision-making and what-if reasoning in the presence of uncertainty. Despite growing research on the problem of recovering causal graphs from data, their application to datasets with plenty of variables is still a pressing issue. Causal Abstraction is a recently defined framework that enables concise representations of large systems through smaller causal models. In this talk, Riccardo will overview the state-of-the-art definitions of Causal Abstraction and discuss their most important aspects and differences. Intuitively, we will see how abstract models can retain causal properties of the system by aggregating the higher-dimensional representation. Then, the talk will focus on the problem of learning abstract causal models by presenting existing approaches and discussing their common assumptions and limitations.
+        </td>
+    </tr>
+      <tr class="talk">
+        <td>15:30-16:30</td>
+        <td> <a href="https://phlippe.github.io/"> Phillip Lippe </a> (UvA) - Causal Representation Learning across Multiple Environments (<a href="/dec4-2024-lippe-crl.pdf">slides</a>)
+        <br>
+        <br>
+        Identifying causal variables and their relations from high-dimensional observations is of great interest in applications like robotics and embodied AI. As it has been shown that causal variables are not necessarily identifiable in the most general setting, recent research focused on using observations from multiple, slightly perturbed environments (e.g. by interventions) to enable identifiability. In this talk, we present the current state and open challenges of causal representation learning in multi-environment settings. We will first review existing methods, including our work on CITRIS and BISCUIT, which leverage intervention-based data to learn causal representations. However, real-world scenarios often involve dynamic environments with varying causal structures and observation functions. To address this, we will discuss our ongoing research on learning causal representations that generalize to unseen environments. Specifically, we will explore under which settings causal representations can identify multiple environments from samples of a joint observation distribution. Furthermore, we explore the usage of object-centric encodings to enable zero-shot generalization to novel, compositional environments.
+        </td>
+</td>
+    </tr>
+    <tr class="drinks">
+        <td>16:30-17:30</td>
+        <td>Drinks</td>
+    </tr>
+</table>
+
 * *April 22, 2024* from 14.30 to 17.30 at VU in the [New University building](https://vu.nl/en/about-vu/more-about/new-university-building) room NU-3A57.
 
 <table class="schedule">
@@ -34,7 +64,7 @@ title: "Past Meetings"
     </tr>
 </table>
 
-* *October 9, 2023* at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114.
+* *February 29, 2024* at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) Lab42-L3.36.
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
@@ -45,17 +75,17 @@ title: "Past Meetings"
         <th>Program</th>
     </tr>
     <tr class="talk">
-        <td>15:00-16:00</td>
-        <td><a href=https://scholar.google.nl/citations?user=pEnrhb4AAAAJ&hl=nl> Nan van Geloven </a> (LUMC) - Prediction under hypothetical interventions: evaluation of counterfactual performance using longitudinal observational data (<a href="/geloven.pdf">abstract</a> and <a href="/oct9-2023-vangeloven-predictive-performance.pdf">slides</a>)
+        <td>14:30-15:30</td>
+        <td><a href=https://www.cs.ru.nl/staff/Mirthe.van.Diepen/> Mirthe van Diepen</a> (Radboud University) - Detecting New Risk Factors via Causal Discovery in Aortic Surgery (<a href="/diepen.pdf">abstract</a>)
         </td>
     </tr>
       <tr class="talk">
-        <td>16:00-17:00</td>
-        <td> <a href=https://sanderbeckers.github.io/website/about/> Sander Beckers </a> (UvA) - Moral responsibility for AI systems (<a href="/beckers.pdf">abstract</a> and <a href="/oct9-2023-beckers-responsability.pdf">slides</a>)
+        <td>15:30-16:30</td>
+        <td> <a href=https://www.uva.nl/en/profile/b/o/p.a.boeken/p.a.boeken.html> Philip Boeken </a> (UvA) - A Markov property for sample paths of stochastic processes (<a href="/boeken.pdf">abstract</a> and <a href="/feb29-2024-boeken-markov.pdf">slides</a>)
         </td>
     </tr>
     <tr class="drinks">
-        <td>17:00-18:30</td>
+        <td>16:30-18:00</td>
         <td>Drinks</td>
     </tr>
 </table>
@@ -86,7 +116,7 @@ title: "Past Meetings"
     </tr>
 </table>
 
-* *February 29, 2024* at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) Lab42-L3.36.
+* *October 9, 2023* at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room D1.114.
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
@@ -97,17 +127,17 @@ title: "Past Meetings"
         <th>Program</th>
     </tr>
     <tr class="talk">
-        <td>14:30-15:30</td>
-        <td><a href=https://www.cs.ru.nl/staff/Mirthe.van.Diepen/> Mirthe van Diepen</a> (Radboud University) - Detecting New Risk Factors via Causal Discovery in Aortic Surgery (<a href="/diepen.pdf">abstract</a>)
+        <td>15:00-16:00</td>
+        <td><a href=https://scholar.google.nl/citations?user=pEnrhb4AAAAJ&hl=nl> Nan van Geloven </a> (LUMC) - Prediction under hypothetical interventions: evaluation of counterfactual performance using longitudinal observational data (<a href="/geloven.pdf">abstract</a> and <a href="/oct9-2023-vangeloven-predictive-performance.pdf">slides</a>)
         </td>
     </tr>
       <tr class="talk">
-        <td>15:30-16:30</td>
-        <td> <a href=https://www.uva.nl/en/profile/b/o/p.a.boeken/p.a.boeken.html> Philip Boeken </a> (UvA) - A Markov property for sample paths of stochastic processes (<a href="/boeken.pdf">abstract</a> and <a href="/feb29-2024-boeken-markov.pdf">slides</a>)
+        <td>16:00-17:00</td>
+        <td> <a href=https://sanderbeckers.github.io/website/about/> Sander Beckers </a> (UvA) - Moral responsibility for AI systems (<a href="/beckers.pdf">abstract</a> and <a href="/oct9-2023-beckers-responsability.pdf">slides</a>)
         </td>
     </tr>
     <tr class="drinks">
-        <td>16:30-18:00</td>
+        <td>17:00-18:30</td>
         <td>Drinks</td>
     </tr>
 </table>

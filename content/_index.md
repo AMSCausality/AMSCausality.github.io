@@ -10,7 +10,7 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 # News
 
-* Meeting on *Dec 4th, 2024* from 14.30 to 17.30 at UvA Science Park Lab42-L3.36 with <a href="https://pages.di.unipi.it/massidda/"> Riccardo Massidda </a> (University of Pisa) and <a href="https://phlippe.github.io/"> Phillip Lippe </a> (UvA).
+* Meeting on *Feb 6th, 2025* from 10.00 to 11.00 at UvA Science Park 107 room F3.20 (KdVI building, third floor) with <a href="https://sites.stat.washington.edu/tsr/website/inquiry/home.php"> Thomas Richardson </a> (University of Washington).
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
