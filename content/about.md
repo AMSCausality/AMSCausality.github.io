@@ -10,7 +10,7 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 # News
 
-* Meeting on *April 22 2024*, 14.30 - 17.30 at VU with [Hessel Peters-Sengers](https://www.amsterdamumc.org/en/research/researchers/hessel-peters-sengers.htm) (AUMC) and [Richard Post](https://research.tue.nl/nl/persons/richard-aj-post) (TU/e).
+* Meeting on *May 13, 2025* from 14.00 to 17.00 at UvA Science Park 904 room B0.203 with <a href="https://rickardkarlsson.com/"> Rickard Karlsson </a> (TU Delft).
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
@@ -18,5 +18,5 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 Sign up for announcements in our [Google Group Amsterdam Causality](https://groups.google.com/g/amscausality/about).
 
-This event is financially supported by the [ELLIS unit Amsterdam](https://ellis.eu/units/amsterdam) and the [Big Statistics group](https://www.bigstatistics.nl/). 
+This event is financially supported by the [ELLIS unit Amsterdam](https://ellis.eu/units/amsterdam) and the [Big Statistics group](https://www.bigstatistics.nl/).
 

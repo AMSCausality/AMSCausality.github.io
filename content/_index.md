@@ -10,7 +10,7 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 # News
 
-* Meeting on *Feb 6th, 2025* from 10.00 to 11.00 at UvA Science Park 107 room F3.20 (KdVI building, third floor) with <a href="https://sites.stat.washington.edu/tsr/website/inquiry/home.php"> Thomas Richardson </a> (University of Washington).
+* Meeting on *May 13, 2025* from 14.00 to 17.00 at UvA Science Park 904 room B0.203 with <a href="https://rickardkarlsson.com/"> Rickard Karlsson </a> (TU Delft).
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 

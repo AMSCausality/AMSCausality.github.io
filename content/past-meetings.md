@@ -4,6 +4,21 @@ title: "Past Meetings"
 
 # Past Meetings
 
+* *February 6, 2025* from 10.00 to 11.00 at [UvA Science Park 107](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) KdVI building, third floor, room F3.20.
+
+<table class="schedule">
+    <tr>
+        <th style="width:20%">Time</th>
+        <th>Program</th>
+    </tr>
+      <tr class="talk">
+        <td>10:00-11:00</td>
+        <td> <a href="https://sites.stat.washington.edu/tsr/website/inquiry/home.php"> Thomas Richardson </a> (University of Washington) - Statistical analysis for the discrete instrumental variable model (<a href="/RichardsonAbstract.pdf">abstract</a>)
+        </td>
+</td>
+    </tr>
+</table>
+
 * *December 4, 2024* from 14.30 to 17.30 at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) in the Lab42 room L3.36.
 
 <table class="schedule">
