@@ -10,7 +10,7 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 # News
 
-* Meeting on *May 13, 2025* from 14.00 to 17.00 at UvA Science Park 904 room B0.203 with <a href="https://rickardkarlsson.com/"> Rickard Karlsson </a> (TU Delft).
+* Meeting on *May 13, 2025* from 14.00 to 17.00 at UvA Science Park 904 room B0.203 with <a href="https://rickardkarlsson.com/"> Rickard Karlsson </a> (TU Delft) and <a href="http://sourbhbh.github.io/"> Sourbh Bhadane </a> (UvA).
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
