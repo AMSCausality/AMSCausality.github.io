@@ -28,6 +28,10 @@ title: "Upcoming Meetings"
         </td>
     </tr>
     <tr class="talk">
+        <td>15:30-15:45</td>
+        <td>Break</td>
+    </tr>
+    <tr class="talk">
         <td>15:45-16:30</td>
         <td> <a href="https://nl.linkedin.com/in/onno-zoeter-75330a2a2"> Onno Zoeter </a> (Booking.com) - When the problem becomes richer than supervised learning. A real-world use of causality in machine learning. 
         <br>
