@@ -15,6 +15,10 @@ title: "Upcoming Meetings"
         <th>Program</th>
     </tr>
     <tr class="talk">
+        <td>14:30-14:45</td>
+        <td>Opening</td>
+    </tr>
+    <tr class="talk">
         <td>14:45-15:30</td>
         <td> <a href="https://www.cs.ru.nl/~tomc/"> Tom Claassen </a> (Radboud University Nijmegen) - Sound and complete causal inference with background knowledge in the presence of latent confounders and selection bias.
         <br>
