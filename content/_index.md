@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-The aim of the seminar is to bring together researchers in causal inference from the VU, UvA, Amsterdam UMC and CWI, but the seminar is open to everyone. The seminar started in 2023 and is co-organized by [Sara Magliacane](https://saramagliacane.github.io/), [Joris Mooij](https://staff.fnwi.uva.nl/j.m.mooij/) and [Stéphanie van der Pas](https://www.stephanievanderpas.nl/).
+The aim of the seminar is to bring together researchers in causal inference from the VU, UvA, Amsterdam UMC and CWI, but the seminar is open to everyone. The seminar started in 2023 and is co-organized by [Philip Boeken](https://philipboeken.github.io), [Giovanni Cina](https://sites.google.com/site/homepagegcina/), [Sara Magliacane](https://saramagliacane.github.io/), [Joris Mooij](https://staff.fnwi.uva.nl/j.m.mooij/) and [Stéphanie van der Pas](https://www.stephanievanderpas.nl/).
 
 We plan to organize 4 events per year, where each event consist of two scientific talks and a networking events with some drinks afterwards.
 
@@ -10,7 +10,7 @@ We plan to organize 4 events per year, where each event consist of two scientifi
 
 # News
 
-* Meeting on *May 13, 2025* from 14.00 to 17.00 at UvA Science Park 904 room B0.203 with <a href="https://rickardkarlsson.com/"> Rickard Karlsson </a> (TU Delft) and <a href="http://sourbhbh.github.io/"> Sourbh Bhadane </a> (UvA).
+* Meeting on *Februari 5, 2026* from 14.30 to 17.30 at UvA Science Park in Lab42, room L3.36, with <a href="https://www.cs.ru.nl/~tomc/"> Tom Claassen </a> (Radboud University Nijmegen) and <a href="https://nl.linkedin.com/in/onno-zoeter-75330a2a2"> Onno Zoeter </a> (Booking.com).
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 

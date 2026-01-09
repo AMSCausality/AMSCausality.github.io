@@ -2,9 +2,9 @@
 title: "Upcoming Meetings"
 ---
 
-# Upcoming Meeting on spring 2025 
+# Upcoming Meeting in winter 2026
 
-* *May 13, 2025* from 14.00 to 17.00 at [UvA Science Park 904](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room B0.203.
+* *Februari 5, 2026* from 14.30 to 17.30 at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) in Lab42, room L3.36.
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
@@ -15,23 +15,27 @@ title: "Upcoming Meetings"
         <th>Program</th>
     </tr>
     <tr class="talk">
-        <td>14:15-15:00</td>
-        <td> <a href="https://rickardkarlsson.com/"> Rickard Karlsson </a> (TU Delft) - Robust integration of external control data in randomized trials
+        <td>14:45-15:30</td>
+        <td> <a href="https://www.cs.ru.nl/~tomc/"> Tom Claassen </a> (Radboud University Nijmegen) - Sound and complete causal inference with background knowledge in the presence of latent confounders and selection bias.
         <br>
         <br>
-        One approach for increasing the efficiency of randomized trials is the use of "external controls" -- individuals who received the control treatment studied in the trial during routine practice or in prior experimental studies. Existing external control methods, however, can be biased if the populations underlying the trial and the external control data are not exchangeable. Here, we characterize a randomization-aware class of treatment effect estimators in the population underlying the trial that remain consistent and asymptotically normal when using external control data, even when exchangeability does not hold. We consider two members of this class of estimators: the well-known augmented inverse probability weighting trial-only estimator, which is the efficient estimator when only trial data are used; and a potentially more efficient member of the class when exchangeability holds and external control data are available, which we refer to as the optimized randomization-aware estimator. To achieve robust integration of external control data in trial analyses, we then propose a combined estimator based on the efficient trial-only estimator and the optimized randomization-aware estimator. We show that the combined estimator is consistent and no less efficient than the most efficient of the two component estimators, whether the exchangeability assumption holds or not. We examine the estimators' performance in simulations and we illustrate their use with data from two trials of paliperidone extended-release for schizophrenia.
+        Causal discovery from observational data has come a long way over the years. In particular constraint-based approaches come complete with provable guarantees on sound- & completeness, even when latent confounders and selection effects may be present (Zhang,2008). The result is a so-called maximally informative PAG, representing a Markov equivalence class as the output causal model. A downside is that often many edge marks (read ‘causal orientations’) remain undetermined. This is where additional background information can be invaluable, possibly helping to orient many additional edge marks. Meek already showed how to do this for CPDAGs (i.e. without latent confounders) some 30 years go. Recent work by Wang et al. (2022,2024) and Venkateswaran & Perkovic (2025) has made good progress to extend this result to the causally insufficient case for certain types of PAGs, but so far the general task still eludes resolution.
+        In this talk I will present a new approach that aims to do just that. It generalises and simplifies some of the orientation rules recently discovered, and adds a few twists to Zhang’s familiar set. The resulting algorithm is very fast in processing arbitrary background information on edge marks in the PAG, even for large graphs. In addition, it can be used to verify consistency between background knowledge and a given PAG, and offers a straightforward way to generate all possible MAGs consistent with a given PAG plus available background info.
         </td>
     </tr>
     <tr class="talk">
-        <td>15:15-16:00</td>
-        <td> <a href="http://sourbhbh.github.io/"> Sourbh Bhadane </a> (UvA) - Revisiting the Berkeley Admissions data: Statistical Tests for Causal Hypotheses
+        <td>15:45-16:30</td>
+        <td> <a href="https://nl.linkedin.com/in/onno-zoeter-75330a2a2"> Onno Zoeter </a> (Booking.com) - When the problem becomes richer than supervised learning. A real-world use of causality in machine learning. 
         <br>
         <br>
-        Reasoning about fairness through correlation-based notions is rife with pitfalls. The 1973 University of California, Berkeley graduate school admissions case from Bickel et al. (1975) is a classic example of one such pitfall, namely Simpson’s paradox. In this talk we reason about the Berkeley graduate school admissions case through a causal lens. We compare different causal notions of fairness that are based on graphical, counterfactual and interventional queries on the causal model, and develop statistical tests for these notions that use only observational data. We study the logical relations between notions, and show that while notions may not be equivalent, their corresponding statistical tests coincide for the case at hand. In particular, we introduce a statistical test for causal hypothesis testing based on Pearl’s instrumental-variable inequalities (Pearl, 1995) and discuss the implications on concluding about fairness through the resulting statistical test.
+        The classic supervised learning problem that is taught in machine learning courses and is the subject of many machine learning competitions is often too narrow to reflect the problems that we face in practice. Historical datasets typically reflect a combination of a source of randomness (for example customers making browsing and buying decisions) and a controlling mechanism such as a ranker or highlighting heuristics (badges, promotions, etc.). Or there might be a selection mechanism (such as the decision to not accept transactions with high fraud risk) that influences the training data. A straightforward regression approach would not be able to disentangle the causal influence of the controller and the phenomenon under study. As a result it risks making incorrect predictions as the controller is changed.  
+        In practice however, such problems are typically treated as a classic regression problem in a first iteration and attempts to identify and correct for these complications come as afterthoughts or are not undertaken at all. Ideally there is a rigorous and flexible formalism that captures the correct framing of the problem from the very start, accompanied by a set of practical algorithms that work well in practice for each of the identified cases. In our initial set of successes, structural causal models have proven to be an effective language to express the understanding of the phenomena and to make accurate causal predictions for changes just in the part that is under control, e.g. the ranker, the acceptance policy, etc.   
+        This overall research objective is the main goal of the Mercury Machine Learning Lab, one of the labs within Booking AI Research. The Mercury lab is a collaboration between the University of Amsterdam, the Technical University of Delft and Booking.com. It brings together the fields of information retrieval, causality and reinforcement learning where the topic is studied under different names e.g. off-line evaluation, transportability and s-recoverability and off-policy learning. 
+        This presentation will sketch the problem, highlight some of the theoretical results so far and describe a significant real-world application. 
         </td>
     </tr>
     <tr class="drinks">
-        <td>16:00-17:00</td>
-        <td>Drinks</td>
+        <td>16:30-17:30</td>
+        <td>Drinks at <a target="_blank" href="https://www.cafe-restaurantpolder.nl">Polder</a></td>
     </tr>
 </table>

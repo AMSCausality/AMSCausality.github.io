@@ -4,6 +4,30 @@ title: "Past Meetings"
 
 # Past Meetings
 
+* *May 13, 2025* from 14.00 to 17.00 at [UvA Science Park 904](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room B0.203.
+
+<table class="schedule">
+    <tr>
+        <th style="width:20%">Time</th>
+        <th>Program</th>
+    </tr>
+    <tr class="talk">
+        <td>14:15-15:00</td>
+        <td> <a href="https://rickardkarlsson.com/"> Rickard Karlsson </a> (TU Delft) - Robust integration of external control data in randomized trials (<a href="/karlsson.pdf">abstract</a>)
+        </td>
+    </tr>
+      <tr class="talk">
+        <td>15:15-16:00</td>
+        <td> <a href="http://sourbhbh.github.io/"> Sourbh Bhadane </a> (UvA) - Revisiting the Berkeley Admissions data: Statistical Tests for Causal Hypotheses (<a href="/bhadane.pdf">abstract</a>)
+        </td>
+</td>
+    </tr>
+    <tr class="drinks">
+        <td>16:00-17:00</td>
+        <td>Drinks</td>
+    </tr>
+</table>
+
 * *February 6, 2025* from 10.00 to 11.00 at [UvA Science Park 107](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) KdVI building, third floor, room F3.20.
 
 <table class="schedule">

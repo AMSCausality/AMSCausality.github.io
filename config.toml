@@ -9,9 +9,9 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "Amsterdam"
   title = "Causality Meeting"
-  subtitle = "Spring 2025"
-  author = "Sara Magliacane, Joris Mooij, Stéphanie van der Pas"
-  description = "Causality meeting 2023 with VU, UvA, Amsterdam UMC and CWI"
+  subtitle = "Winter 2026"
+  author = "Philip Boeken, Giovanni Cina, Sara Magliacane, Joris Mooij, Stéphanie van der Pas"
+  description = "Causality meeting 2026 with VU, UvA, Amsterdam UMC and CWI"
   keywords = ["seminar", "workshop", "meeting", "causality", "causal"]
 
 # Options for Markdown renderer
