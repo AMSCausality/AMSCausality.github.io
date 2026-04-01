@@ -4,6 +4,31 @@ title: "Past Meetings"
 
 # Past Meetings
 
+* *Februari 5, 2026* from 14.30 to 17.30 at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) in Lab42, room L3.36.
+
+<table class="schedule">
+    <tr>
+        <th style="width:20%">Time</th>
+        <th>Program</th>
+    </tr>
+    <tr class="talk">
+        <td>14:30-14:45</td>
+        <td> <a href="https://www.cs.ru.nl/~tomc/"> Tom Claassen </a> (Radboud University Nijmegen) - Sound and complete causal inference with background knowledge in the presence of latent confounders and selection bias. (<a href="/claassen.pdf">abstract</a>)
+        </td>
+    </tr>
+      <tr class="talk">
+        <td>15:30-15:45</td>
+        <td> <a href="https://nl.linkedin.com/in/onno-zoeter-75330a2a2"> Onno Zoeter </a> (Booking.com) - When the problem becomes richer than supervised learning. A real-world use of causality in machine learning.  (<a href="/zoeter.pdf">abstract</a>)
+        </td>
+</td>
+    </tr>
+    <tr class="drinks">
+        <td>16:30-17:30</td>
+        <td>Drinks</td>
+    </tr>
+</table>
+
+
 * *May 13, 2025* from 14.00 to 17.00 at [UvA Science Park 904](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) room B0.203.
 
 <table class="schedule">
