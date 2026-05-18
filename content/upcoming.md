@@ -41,7 +41,7 @@ title: "Upcoming Meetings"
         </td>
     </tr>
     <tr class="drinks">
-        <td>16:30-18:30</td>
+        <td>16:30-17:30</td>
         <td>Drinks at <a target="_blank" href="https://grandcafeliving.nl/amsterdam/">Grand Café Living</a> (in the same building)</td>
     </tr>
 </table>
