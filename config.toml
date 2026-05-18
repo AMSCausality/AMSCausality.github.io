@@ -9,7 +9,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "Amsterdam"
   title = "Causality Meeting"
-  subtitle = "Winter 2026"
+  subtitle = "Spring 2026"
   author = "Philip Boeken, Giovanni Cina, Sara Magliacane, Joris Mooij, Stéphanie van der Pas"
   description = "Causality meeting 2026 with VU, UvA, Amsterdam UMC and CWI"
   keywords = ["seminar", "workshop", "meeting", "causality", "causal"]

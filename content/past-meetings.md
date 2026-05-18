@@ -4,6 +4,40 @@ title: "Past Meetings"
 
 # Past Meetings
 
+* *April 20, 2026* from 14.30 to 17.30 at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) in Lab42, room L3.36.
+
+<div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
+</div>
+
+<table class="schedule">
+    <tr>
+        <th style="width:20%">Time</th>
+        <th>Program</th>
+    </tr>
+    <tr class="talk">
+        <td>14:30-14:45</td>
+        <td>Opening</td>
+    </tr>
+    <tr class="talk">
+        <td>14:45-15:30</td>
+        <td> <a href="https://sites.google.com/site/enimusta91/home"> Eni Musta </a> (University of Amsterdam) - Can we detect treatment effect waning from time-to-event data? (<a href="/eni.pdf">abstract</a>)
+        </td>
+    </tr>
+    <tr class="talk">
+        <td>15:30-15:45</td>
+        <td>Break</td>
+    </tr>
+    <tr class="talk">
+        <td>15:45-16:30</td>
+        <td> <a href="https://hidde-fokkema.com"> Hidde Fokkema </a> (University of Amsterdam)  Sample-efficient Learning of Concepts with Theoretical Guarantees: from Data to Concepts without Interventions. (<a href="/hidde.pdf">abstract</a>)
+        </td>
+    </tr>
+    <tr class="drinks">
+        <td>16:30-17:30</td>
+        <td>Drinks at <a target="_blank" href="https://www.cafe-restaurantpolder.nl">Polder</a></td>
+    </tr>
+</table>
+
 * *Februari 5, 2026* from 14.30 to 17.30 at [UvA Science Park](https://www.uva.nl/en/shared-content/locaties/en/sciencepark/science-park.html) in Lab42, room L3.36.
 
 <table class="schedule">
