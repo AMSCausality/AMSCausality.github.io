@@ -4,7 +4,7 @@ title: "Upcoming Meetings"
 
 # Upcoming Meeting in spring 2026
 
-* *June 2nd, 2026* from 14.30 to 18.30 at VU in the [New University building](https://vu.nl/en/about-vu/more-about/new-university-building) room NU-4B47.
+* *June 2nd, 2026* from 14.30 to 17.30 at VU in the [New University building](https://vu.nl/en/about-vu/more-about/new-university-building) room NU-4B47.
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
@@ -20,7 +20,7 @@ title: "Upcoming Meetings"
     </tr> -->
     <tr class="talk">
         <td>14:30-15:15</td>
-        <td> <a href="https://sabersalehk.github.io">Saber Salehkaleybar </a> (Leiden University) Causal Inference in Linear Systems: From Acyclic Models to Feedback Dynamics.
+        <td> <a href="https://sabersalehk.github.io">Saber Salehkaleybar </a> (Leiden University) - Causal Inference in Linear Systems: From Acyclic Models to Feedback Dynamics.
         <br>
         <br>
         Linear systems are prevalent across science and engineering, and often provide interpretable first-order models of more complex phenomena. In this talk, I will present recent identifiability results for causal inference in linear systems, moving from acyclic structural causal models (SCMs) to cyclic ones and continuous-time stochastic dynamics. I will first discuss how non-Gaussianity and higher-order moments enable causal effect identification in acyclic linear SCMs with latent confounding, including proxy, instrumental-variable, and heterogeneous-environment settings.
