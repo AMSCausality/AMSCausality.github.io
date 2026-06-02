@@ -10,7 +10,7 @@ We plan to organize 3-4 events per year, where each event consist of two scienti
 
 # News
 
-* Meeting on *June 2nd, 2026* from 14.30 to 18.30 at the VU in the New University building, room NU-4B47, with <a href="https://sabersalehk.github.io">Saber Salehkaleybar </a> (Leiden University) and <a href="https://junhyung-park.github.io"> Junhyung Park </a> (ETH Zürich).
+* Meeting on *June 2nd, 2026* from 14.30 to 17.30 at the VU in the New University building, room NU-4B47, with <a href="https://sabersalehk.github.io">Saber Salehkaleybar </a> (Leiden University) and <a href="https://junhyung-park.github.io"> Junhyung Park </a> (ETH Zürich).
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
