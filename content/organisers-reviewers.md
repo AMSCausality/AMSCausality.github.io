@@ -13,10 +13,6 @@ title: "Organisers"
         <img src="/giovanni.jpg">
         <a href="https://sites.google.com/site/homepagegcina/">Giovanni Cina</a>
     </div>
-     <div class="person">
-        <img src="/sara.jpg">
-        <a href="https://saramagliacane.github.io/">Sara Magliacane</a>
-    </div>
     <div class="person">
         <img src="/stephanie.jpeg">
         <a href="https://www.stephanievanderpas.nl/">Stéphanie van der Pas</a>
@@ -24,6 +20,15 @@ title: "Organisers"
     <div class="person">
         <img src="/joris.jpeg">
         <a href="https://staff.fnwi.uva.nl/j.m.mooij/">Joris M. Mooij</a>
+    </div>
+</div>
+
+# Former organisers
+
+<div class="list-of-former-people">
+         <div class="person">
+        <img src="/sara.jpg">
+        <a href="https://saramagliacane.github.io/">Sara Magliacane</a>
     </div>
 
 
