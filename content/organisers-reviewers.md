@@ -11,7 +11,7 @@ title: "Organisers"
     </div>
      <div class="person">
         <img src="/giovanni.jpg">
-        <a href="https://sites.google.com/site/homepagegcina/">Giovanni Cina</a>
+        <a href="https://giovannicina.github.io">Giovanni Cinà</a>
     </div>
     <div class="person">
         <img src="/stephanie.jpeg">
