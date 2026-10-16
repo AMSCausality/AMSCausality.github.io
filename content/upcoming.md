@@ -2,9 +2,9 @@
 title: "Upcoming Meetings"
 ---
 
-# Upcoming Meeting in spring 2026
+# Upcoming Meeting in autumn 2026
 
-* *June 2nd, 2026* from 14.30 to 17.30 at VU in the [New University building](https://vu.nl/en/about-vu/more-about/new-university-building) room NU-4B47.
+* *November 26th, 2026* from 14.30 to 17.30 at at the Amsterdam UMC location AMC,  Meibergdreef 9 1105 AZ, room D3 223.
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 8px; margin-top: 8px;">
 </div>
