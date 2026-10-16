@@ -20,11 +20,12 @@ title: "Upcoming Meetings"
     </tr> -->
     <tr class="talk">
         <td>14:30-15:15</td>
-        <td> <a href="https://sabersalehk.github.io">Saber Salehkaleybar </a> (Leiden University) - Causal Inference in Linear Systems: From Acyclic Models to Feedback Dynamics.
+        <td> <a href="https://scholar.google.nl/citations?hl=nl&user=5izbFUAAAAAJ">Otto Nyberg  </a> (UvA, Amsterdam UMC) - 2-Step Agent: How a Bayesian Decision Maker Learns from AI-Decision Support.
         <br>
         <br>
-        Linear systems are prevalent across science and engineering, and often provide interpretable first-order models of more complex phenomena. In this talk, I will present recent identifiability results for causal inference in linear systems, moving from acyclic structural causal models (SCMs) to cyclic ones and continuous-time stochastic dynamics. I will first discuss how non-Gaussianity and higher-order moments enable causal effect identification in acyclic linear SCMs with latent confounding, including proxy, instrumental-variable, and heterogeneous-environment settings.
-        I will then turn to feedback systems. Cyclic linear SCMs provide one way to model feedback, and I will discuss distributional equivalence in cyclic linear non-Gaussian models. Finally, I will consider linear stochastic differential equations as another framework for modeling feedback through continuous-time interactions. When only the stationary distribution is observed, exact causal-effect strengths are generally not identifiable without additional assumptions. I will instead focus on edge-sign identifiability, which asks when the sign of a direct causal effect is uniquely determined by the stationary covariance matrix. I will present criteria for determining whether an edge sign is identifiable, non-identifiable, or partially identifiable.
+        Prognostic predictions from ML models support human decision making in several fields, including high-stakes ones such as healthcare and the judiciary. Yet, we still lack a clear understanding of how decision makers learn from ML-based decision support (ML-DS). In this paper, we introduce a general computational framework, the 2-Step Agent, to capture this process.
+As a prediction from an ML model contains information about the training data and the causal mechanism that generated it, a prediction can also be used for inference.
+Our framework models (i) how a prediction for a new observation affects the beliefs of a rational Bayesian agent, and (ii) how this change in beliefs affects the estimation of causal effect, the downstream decision, and the subsequent outcome. In addition to the framework itself, we make three contributions. First, for the multivariate linear-Gaussian setting, we derive a tractable solution for the Bayesian inference problem introduced, i.e. one in which the agent infers from an ML prediction. Second, we experimentally identify conditions under which ML-DS is beneficial. Third, we show that a single misaligned prior belief can be sufficient for ML-DS to lead to worse downstream outcomes compared to no decision support even when the prognostic model is well-specified and the agent is perfectly rational. Hence, even under ideal conditions, ML-DS can do more harm than good.
         </td>
     </tr>
     <tr class="talk">
@@ -33,15 +34,14 @@ title: "Upcoming Meetings"
     </tr>
     <tr class="talk">
         <td>15:30-16:15</td>
-        <td> <a href="https://junhyung-park.github.io"> Junhyung Park </a> (ETH Zürich) - Causal Spaces: A Measure-Theoretic Axiomatisation of Causality.
+        <td> <a href="https://nadjarutsch.github.io">Nadja Rutsch </a> (VU). - Causal Inference in Finite Samples: The Potential of Invalid Adjustments.
         <br>
         <br>
-        Mathematical theories are founded upon simple axioms that isolate the essential structure of an object or a concept. Abstract algebra starts with the group axioms, linear algebra the vector space axioms, and topology the axioms of open sets. Most relevantly, Kolmogorov's axioms of probabilities based on measure theory have established probability theory as a branch of pure mathematics in the last century. 
-        The late 20th century saw the introduction of two hugely influential mathematical frameworks of causality, namely, the structural causal models of Judea Pearl and the potential outcomes of Donald Rubin. Their value, especially in causal inference from data, have been proved beyond doubt. However, these, and other frameworks of causality, were not designed as minimal axiomatic foundations, in the spirit of the above mathematical theories. To fill this gap, we introduce causal spaces, with two minimal axioms capturing the essence of interventions, namely, (i) doing nothing changes nothing (trivial intervention), and (ii) when X is given value x, X has value x (interventional determinism). We show that the prior formalisms can be recovered as special cases of causal spaces, and that a rich and fruitful mathematical theory, with clear causal semantics, can arise from these minimal axioms. 
+        The standard advice for estimating causal effects from observational data is to adjust for a valid adjustment set, ideally the asymptotically optimal one. In practice, however, researchers often work with limited sample sizes. There, an invalid adjustment set can lead to a better estimator: accepting a small bias may buy a substantial reduction in variance. We look for the adjustment set that minimizes the mean squared error of the causal effect estimator, taking into account the joint distribution of the variables and the sample size. We present examples in which this MSE-optimal set differs from the asymptotically optimal set, including cases where it is invalid. For linear Gaussian models, we introduce a sample size criterion for comparing adjustment sets, and graphical criteria that use the causal graph to prune the search space. Finally, we propose a data-based procedure that estimates the mean squared error of each adjustment set that remains after graphical pruning, and selects the smallest. In simulations, this procedure outperforms adjustment for the asymptotically optimal set at small sample sizes, making causal inference more practical in such scenarios.
         </td>
     </tr>
     <tr class="drinks">
         <td>16:30-17:30</td>
-        <td>Drinks at <a target="_blank" href="https://grandcafeliving.nl/amsterdam/">Grand Café Living</a> (in the same building)</td>
+        <td>Drinks at <a target="_blank" href="https://www.miss-scarlett.nl">Miss Scarlett</a> </td>
     </tr>
 </table>
