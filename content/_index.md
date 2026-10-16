@@ -10,7 +10,7 @@ We plan to organize 3-4 events per year, where each event consist of two scienti
 
 # News
 
-* Meeting on *June 2nd, 2026* from 14.30 to 17.30 at the VU in the New University building, room NU-4B47, with <a href="https://sabersalehk.github.io">Saber Salehkaleybar </a> (Leiden University) and <a href="https://junhyung-park.github.io"> Junhyung Park </a> (ETH Zürich).
+* Meeting on *November 26th, 2026* from 14.30 to 17.30 at the Amsterdam UMC location AMC,  Meibergdreef 9 1105 AZ, room D3 223, with <a href="https://scholar.google.nl/citations?hl=nl&user=5izbFUAAAAAJ">Otto Nyberg  </a> (UvA, Amsterdam UMC) and <a href="https://nadjarutsch.github.io">Nadja Rutsch </a> (VU).
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
